@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ignition",
+  "base_artist": "VESPERBELL",
+  "createdAt": "2026-01-13T12:45:57.656598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ignition / Do You... (Mashup)",
+      "artist": "Phoebe Ryan",
+      "has_synced": true,
+      "path": "select/01_Ignition___Do_You..._(Mashup)_Phoebe_Ryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ignition \u0000 Do You... (Mashup)",
+      "artist": "Phoebe Ryan Kesha",
+      "has_synced": true,
+      "path": "select/02_Ignition_\u0000_Do_You..._(Mashup)_Phoebe_Ryan_Kesha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ignition",
+      "artist": "The Charlatans",
+      "has_synced": true,
+      "path": "select/03_Ignition_The_Charlatans.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ignition",
+      "artist": "The Charlatans UK",
+      "has_synced": true,
+      "path": "select/04_Ignition_The_Charlatans_UK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ignition (Remix)",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Rayvon Owen",
+      "has_synced": true,
+      "path": "select/05_Ignition_(Remix)_Scott_Bradlee's_Postmodern_Jukebox_feat._Rayvon_Owen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "At the Point of Ignition",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/06_At_the_Point_of_Ignition_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pre-Ignition",
+      "artist": "Voivod",
+      "has_synced": true,
+      "path": "select/07_Pre-Ignition_Voivod.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ignition",
+      "artist": "Trivium",
+      "has_synced": true,
+      "path": "select/08_Ignition_Trivium.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ignition",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/09_Ignition_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ignition - Remix",
+      "artist": "R. Kelly",
+      "has_synced": true,
+      "path": "select/10_Ignition_-_Remix_R._Kelly.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ignition",
+      "artist": "TobyMac",
+      "has_synced": true,
+      "path": "select/11_Ignition_TobyMac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ignition",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/12_Ignition_Scooter.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dim Ignition",
+      "artist": "Between the Buried and Me",
+      "has_synced": true,
+      "path": "select/13_Dim_Ignition_Between_the_Buried_and_Me.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ignition",
+      "artist": "VESPERBELL",
+      "has_synced": false,
+      "path": "select/pl_01_ignition_VESPERBELL.txt"
+    }
+  ]
+}
